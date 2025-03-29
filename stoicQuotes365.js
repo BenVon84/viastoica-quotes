@@ -30,16 +30,6 @@ const stoicQuotes = [
     "source": "Meditations, Book 10.16"
   },
   {
-    "quote": "If you seek tranquillity, do less.",
-    "author": "Democritus",
-    "source": "Frg. B.3, From Marcus Aurelius, Meditations, Book 4.24"
-  },
-  {
-    "quote": "The world is nothing but change. Our life is only perception.",
-    "author": "Democritus",
-    "source": "Frg. B.115, From Marcus Aurelius, Meditations, Book 4.3"
-  },
-  {
     "quote": "Frightened of change? But what can exist without it? What's closer to nature's heart?",
     "author": "Marcus Aurelius",
     "source": "Meditations, Book 7.18"
@@ -345,11 +335,6 @@ const stoicQuotes = [
     "source": "Meditations, Book 4.43"
   },
   {
-    "quote": "Dig deep; the water - goodness - is down there. And as long as you keep digging, it will keep bubbling up.\" Marcus Aurelius, Meditations, Book 7.59 Post: How to Be Confident Like a Stoic",
-    "author": "Seneca Quotes",
-    "source": ""
-  },
-  {
     "quote": "The wise man is content with himself.",
     "author": "Seneca",
     "source": "Letters from a Stoic, Letter IX"
@@ -368,11 +353,6 @@ const stoicQuotes = [
     "quote": "Sometimes even to live is an act of courage.",
     "author": "Seneca",
     "source": "Letters to Lucilius, Letter LXXVIII"
-  },
-  {
-    "quote": "Whatever fate one man can strike can come to all of us alike.",
-    "author": "Publius",
-    "source": "From Seneca, Dialogues and Essays, Consolation to Marcia, 9"
   },
   {
     "quote": "It is not that we have a brief length of time to live, but that we squander a great deal of that time.",
@@ -408,11 +388,6 @@ const stoicQuotes = [
     "quote": "But since the first essential is not to become angry, the second to cease being angry, and the third to cure also anger in others.",
     "author": "Seneca",
     "source": "Dialogues and Essays, On Anger, 5"
-  },
-  {
-    "quote": "Indifferent to great endeavors.",
-    "author": "Reference to Aristotle by Seneca",
-    "source": "Dialogues and Essays, On anger, 3"
   },
   {
     "quote": "So, tell me, will someone call a man sane who, as if caught up in a tempest, does not walk but is driven along, and takes as his master a furious demon\u2026?",
@@ -495,11 +470,6 @@ const stoicQuotes = [
     "source": "Dialogues and Essays, On the Happy Life, 24"
   },
   {
-    "quote": "You ask what is the proper limit to a person\u2019s wealth? First, having what is essential, and second, having what is enough.\u201d posted",
-    "author": "Seneca",
-    "source": "Letters From a Stoic, Letter II"
-  },
-  {
     "quote": "Such things should be despised, not to stop himself having them, but to avoid worry when he does have them; He does not drive them away, but accompanies them to the door, if they leave him, as an untroubled host.",
     "author": "Seneca",
     "source": "Dialogues and Essays, On the Happy Life,21"
@@ -517,16 +487,6 @@ const stoicQuotes = [
   {
     "quote": "You ask me to say what you should consider it particularly important to avoid. My answer is this: a mass crowd. It is something to which you cannot entrust yourself yet without risk. I at any rate am ready to confess my own frailty in this respect.",
     "author": "Seneca",
-    "source": "Letters From a Stoic, Letter VII"
-  },
-  {
-    "quote": "Retire into yourself as much as you can. Associate with people who are likely to improve you. Welcome those whom you are capable of improving. The process is a mutual one: Men learn as they teach.\u201d posted",
-    "author": "Seneca",
-    "source": "Letters From a Stoic, Letter VII"
-  },
-  {
-    "quote": "A few is enough for me; so is one; and so is none.\u201d posted",
-    "author": "Unknown person quoted by Seneca",
     "source": "Letters From a Stoic, Letter VII"
   },
   {
@@ -550,24 +510,9 @@ const stoicQuotes = [
     "source": "Dialogues and Essays, Consolation to Helvia, 8"
   },
   {
-    "quote": "When one has lost a friend one\u2019s eyes should be neither dry nor streaming. Tears, yes, there should be, but no lamentation.\u201d posted",
-    "author": "Seneca",
-    "source": "Letters From a Stoic, Letter LXIII"
-  },
-  {
     "quote": "If you grieve for your son\u2019s death, it is an accusation of the time when he was born; for at birth his death was proclaimed; into this condition he was fathered, this was the fate that accompanied him immediately from the womb.",
     "author": "Seneca",
     "source": "Dialogues and Essays, Consolation to Marcia, 10"
-  },
-  {
-    "quote": "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.\u201d posted",
-    "author": "Seneca",
-    "source": "Moral letter to Lucilius, Book 2, Letter 13.4"
-  },
-  {
-    "quote": "But virtue only comes to a character which has been thoroughly schooled and trained and brought to a pitch of perfection by unremitting practice. We are born for it, but not with it. And even in the best of people, until you cultivate it there is only the material for virtue, not virtue itself.\u201d posted",
-    "author": "Seneca",
-    "source": "Letters from a Stoic, Letter XC"
   },
   {
     "quote": "Before anything it is imperative that a man reaches an estimate of himself, because generally we suppose ourselves to be capable of more than we are.",
@@ -590,16 +535,6 @@ const stoicQuotes = [
     "source": "Dialogues and Essays, On the Tranquillity of the Mind, 13"
   },
   {
-    "quote": "At whatever point you leave life, if you leave it in the right way, it is a whole.\u201d posted",
-    "author": "Seneca",
-    "source": "Letters from a Stoic, Letter LXXVII"
-  },
-  {
-    "quote": "No one is so ignorant as not to know that some day he must die.\u201d posted",
-    "author": "Seneca",
-    "source": "Letters From a Stoic, Letter LXXVII"
-  },
-  {
     "quote": "Remaining dry and sober takes a good deal more strength of will when everyone about one is puking drunk.",
     "author": "Seneca",
     "source": "Letter From A Stoic, Letter XVIII"
@@ -608,51 +543,6 @@ const stoicQuotes = [
     "quote": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: \u2018Is this the condition that I feared?\u2019",
     "author": "Seneca",
     "source": "Moral Letters, Letter 18.5"
-  },
-  {
-    "quote": "Men are tight-fisted in keeping control of their fortunes, but when it comes to the matter of wasting time, they are positively extravagant in the one area where there is honour in being miserly.",
-    "author": "Post: 10 Seneca quotes on Time",
-    "source": "On the Shortness of Life, 3"
-  },
-  {
-    "quote": "While we are postponing, life speeds by.",
-    "author": "Post: 10 Seneca Quotes on Time",
-    "source": "Letters to Lucilius, 1.2"
-  },
-  {
-    "quote": "No one will bring back the years; no one will restore you to yourself.",
-    "author": "Post: 10 Seneca Quotes on Time",
-    "source": "On the Shortness of Life, 8"
-  },
-  {
-    "quote": "You fear everything as mortals but desire to have everything as gods.",
-    "author": "Post: 10 Seneca Quotes on Time",
-    "source": "On the Shortness of Life, 3"
-  },
-  {
-    "quote": "The greatest obstacle to living is expectation, which depends on tomorrow and wastes today.",
-    "author": "Post: 10 Seneca Quotes on Time",
-    "source": "On the Shortness of Life, 9"
-  },
-  {
-    "quote": "Present time is very short, so short, indeed, that some people think there is none.",
-    "author": "Post: 10 Seneca Quotes on Time",
-    "source": "On the Shortness of Life, 10"
-  },
-  {
-    "quote": "For it is constantly on the move, like a rushing river; it ceases to exist before it has arrived, and no more tolerates delay than the heavens or the stars, whose ever-restless motion never lets them remain in the same track.",
-    "author": "Post: 10 Seneca Quotes on Time",
-    "source": "On the Shortness of Life, 10"
-  },
-  {
-    "quote": "You live as though you were going to live for ever, at no time taking thought for your weakness.",
-    "author": "Post: 10 Seneca Quotes on Time",
-    "source": "On the Shortness of Life, 4"
-  },
-  {
-    "quote": "Begin at once to live, and count each separate day as a separate life.",
-    "author": "Epictetus Quotes",
-    "source": "Letters to Lucilius, 17.10"
   },
   {
     "quote": "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever is our own action. Things not in our control are body, property, reputation, command, and, in one word, whatever is not our action.",
@@ -675,84 +565,14 @@ const stoicQuotes = [
     "source": "the Discourses, Book 3, Chapter 24.87"
   },
   {
-    "quote": "Enable my mind to adapt itself to whatever comes to pass.\u201d Posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 2, Chapter 2.21"
-  },
-  {
     "quote": "Above all, keep a close watch on this - that you are never so tied to your former acquainances and friends that you are pulled down to their level. If you don\u2019t, you\u2019ll be ruined. You must choose whether to be loved by these friends and remain the same person, or to become a better person at the cost of those friends\u2026 if you try to have it both ways you will neither make progress nor keep what you once had.",
     "author": "Epictetus",
     "source": "The Discourses, Chapter 2"
   },
   {
-    "quote": "First say to yourself, what manner of man you want to be; when you have settled this, act upon it in all you do.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 3, Chapter 23.1"
-  },
-  {
-    "quote": "Difficulties are the things that show what men are.\u201d Posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 24.1"
-  },
-  {
-    "quote": "For it is you who know yourself, and what value you set upon yourself, and at what rate you sell yourself.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 2.11"
-  },
-  {
-    "quote": "You should drop your desire; do not covey many things, and you will get what you want.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 3, Chapter 9.22"
-  },
-  {
-    "quote": "If it ever happens that you turn to external things in the desire to please some other person, realize that you have ruined your scheme of life. Be content, then, with being a philosopher in everything; and if you wish also to be seen as one, show yourself that you are one, and you will be able to achieve it.\u201d posted Post; The Collective Existential Crisis",
-    "author": "Epictetus",
-    "source": "The Handbook, 23"
-  },
-  {
-    "quote": "If you take on a role that is beyond your powers, you not only disgrace yourself in that role, but you neglect the role that you were capable of fulfilling.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Handbook, 37"
-  },
-  {
-    "quote": "Examine who you are\u2026 For you are capable of understanding the divine governance of the universe, and of reasoning on what follows from that.\u201d Posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 2, Chapter 10"
-  },
-  {
-    "quote": "When you are about to undertake some action, remind yourself what sort of action it is.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Handbook, 4"
-  },
-  {
-    "quote": "Practice, then, from the start to say to every harsh impression, \u2018You are an impression, and not at all the thing you appear to be.\u2019 Then examine it and test it by these rules which you have, and firstly, and chielfy, by this: Whether the impression has to do with things which are up to us, or those which are not, and, if it has to do with thing that are not up to us, be ready to reply. \u2018It is nothing to me\u2019.\u201d Posted partly",
-    "author": "Epictetus",
-    "source": "The Handbook, 1"
-  },
-  {
-    "quote": "But it is a much finer thing to be happy, to have a peaceful and undisturbed mind, to have what concerns you dependent on nobody but yourself.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 4, Chapter 4.36"
-  },
-  {
-    "quote": "In a similar way, you too should remind yourself that what you love is mortal, that what you love is not your own. It is granted to you for the present while, and not irrevocably, nor for ever, but like a fig or a bunch of grapes in the appointed season; and if you long for it in the winter, you are a fool.\u201d Posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 3, Chapter 24.86"
-  },
-  {
-    "quote": "In the case of everything that delights the mind, or is useful, or is loved with fond affection, remember to tell yourself what sort of things it is, beginning with the least of things. If you are fond of a jug, say, \u2018It is a jug that I am fond of\u2019; then, if it is broken, you will not be disturbed. If you kiss your child, or your wife, say to yourself that it is a human being that you are kissing; and then you will not be disturbed if either of them dies.\u201d Posted",
-    "author": "Epictetus",
-    "source": "The Handbook, 3"
-  },
-  {
     "quote": "What a man sets his heart on, that he naturally loves. Do men set their heart on evils? - By no means. Or on what does not concern them? - No again. It remains for us to conclude, then, that good things alone are what they set their heart on: and if they set their heart on those, they love them too. Whoever, therefore, has knowledge of good things would also know how to love them; and he who cannot distinguish good things from evil, and things that are neither good nor evil from both of these, how could he still have power to love? It follows that the wise man alone has the power to love.",
     "author": "Epictetus",
     "source": "The Discourses, Book 2, Chapter 22.1"
-  },
-  {
-    "quote": "For universally (and you should not be deceived on this) every living creature is attached to nothing so strongly as it is to its own interest.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book Two, Chapter 22.12"
   },
   {
     "quote": "Eteocles: \u2018Where will you stand before the walls?\u2019 Polyneices: \u2018 For what reason do you ask me?\u2019 Eteocles: \u2018I mean to face you and slay you.\u2019 Polyneices: \u2018And so is my desire too.\u2019",
@@ -763,11 +583,6 @@ const stoicQuotes = [
     "quote": "...you have not been invited to such a person\u2019s banquet, because you have not paid him the price for which a meal is sold. It is sold for praise; it is sold for attention. Make up the price, then, if that is to your advantage. But if you would at the same time not pay the one and yet receive the other, you are greedy and stupid. Have you nothing, then, in place of the meal? Yes, indeed, you have: that of not praising someone you did not want to praise, and of not putting up with the people around his door.",
     "author": "Epictetus",
     "source": "The Handbook, 25"
-  },
-  {
-    "quote": "Philosophers exhort us not to be contented with mere learning, but to add practice also,  and then training.\" Posted",
-    "author": "Epictetus",
-    "source": "the Discourses, book two, chapter 9.13"
   },
   {
     "quote": "Besides: do you think that I fall into evil voluntarily, and miss the good? Heaven forbid. What, then, is the cause of my going wrong? Ignorance.",
@@ -783,16 +598,6 @@ const stoicQuotes = [
     "quote": "For you will find that it is in reality true, that these things which are eagerly pursued and admired are of no use to those who have gained them; while those who have not yet gained them imagine that, once these things are theirs, they will possess all that is good, and then, when they are theirs, there is the same scorching heat, the same agitation, the same nausea and the same desire of what they do not have. For freedom is not secured by the fulfilment of people\u2019s desires, but by the suppression of desire.",
     "author": "Epictetus",
     "source": "The Discourses, Book 4.1, 174, 175"
-  },
-  {
-    "quote": "Only consider at what price you sell your own will and choice, man: if for nothing else, that you may not sell it cheap.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 2.33"
-  },
-  {
-    "quote": "It starts with knowing yourself, and what value you set upon yourself.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 2.11"
   },
   {
     "quote": "For as soon as a person even considers such questions, comparing and calculating the values of external things, he draws close to those who have lost all sense of their proper character.",
@@ -815,11 +620,6 @@ const stoicQuotes = [
     "source": "The Discourses, Book 1 Chapter 1.4"
   },
   {
-    "quote": "To make the best of what is in our power, and take the rest as it naturally happens.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1 Chapter 1.17"
-  },
-  {
     "quote": "We choose instead to take care of many, and to encumber ourselves with many; body, property, brother, friend, child, and slave.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 1.14"
@@ -828,16 +628,6 @@ const stoicQuotes = [
     "quote": "What, then, should we have at hand upon such occasions? Why, what else than to know what is mine, and what is not mine, what is within my power, and what is not.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 1.21"
-  },
-  {
-    "quote": "Why do you not study to be contented with what is alloted to you?\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 1.27"
-  },
-  {
-    "quote": "I must die. If instantly, I will die instantly; if in a short time, I will dine first, since the hour for dining is here, and when the time comes, then I will die. How? As becomes a person who is giving back what is not his to own.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 1.32"
   },
   {
     "quote": "but since in our birth we have these two elements mingled within us, a body in common with the animals, and reason and intelligence with the gods, many of us incline towards the former kinship, miserable as it is and wholly mortal, and only some few to the divine and blessed one.",
@@ -855,11 +645,6 @@ const stoicQuotes = [
     "source": "The Discourses, Book 1, Chapter 3.8"
   },
   {
-    "quote": "What does virtue achieve? Peace of Mind.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 4.5"
-  },
-  {
     "quote": "Now if virtue promises happiness, an untroubled mind and serenity, then progress towards virtue is certainly progress towards each of these.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 4.3"
@@ -868,11 +653,6 @@ const stoicQuotes = [
     "quote": "Seek it in that place, wretch, where your task lies. And where does it lie?",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 4.11"
-  },
-  {
-    "quote": "Do not ask things to happen as you wish, but wish them to happen as they do happen, and your life will go smoothly.\u201d Posted",
-    "author": "Epictetus",
-    "source": "The Handbook, 8"
   },
   {
     "quote": "If any of you, withdrawing himself from externals, turns to his own faculty of choice, working at it and perfecting it, so as to bring it fully into harmony with nature, elevated, free, unrestrained, unhindered, faithful, self-respecting.",
@@ -885,19 +665,9 @@ const stoicQuotes = [
     "source": "The Discourses, Book 1, Chapter 4.20"
   },
   {
-    "quote": "It is the action of an uneducated person to lay the blame for his own bad condition upon others; of one who has made a start on his education to lay the blame on himself; and of one who is fully educated, to blame neither others nor himself.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Handbook, 5"
-  },
-  {
     "quote": "\u2018Take the treatise On Impulse, and see how thoroughly I have read it.\u2019 That\u2019s not what I am looking for, slave, but how you exercise your impulse to act and not to act, how you manage your desires and aversions, how you approach things, how you apply yourself to them, and prepare for the, and whether in harmony with nature or out of harmony. For if you are acting in harmony with nature, give me evidence of that, and I will say that you are making progress; but if you are acting out of harmony, go your way, and do not merely comment on these treatises, but even write such works yourself.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 4.14"
-  },
-  {
-    "quote": "Most of us fear the deadening of the body\u2026 but the deadening of the soul concerns us not a bit.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 5.4"
   },
   {
     "quote": "Is there no difference, then, between that impression and the other? - \u2018None.\u2019 - Can I argue with this man any longer?",
@@ -920,16 +690,6 @@ const stoicQuotes = [
     "source": "The Discourses, Book 1, Chapter 5.7"
   },
   {
-    "quote": "We might be fluent in the classroom but drag us out into practice and we\u2019re miserably shipwrecked.\u201d posted",
-    "author": "Page: The Discourses of Epictetus",
-    "source": "The Discourses, Book 2, Chapter 16.20 (Paraphrased)"
-  },
-  {
-    "quote": "For everything that happens in the universe one can readily find reason to praise providence, if one has within oneself these two qualities, the ability to see each particular event in the context of the whole, and a sense of gratitude.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, On Providence, Book 1, Chapter 6.1"
-  },
-  {
     "quote": "For if we do not act in a proper and orderly manner, and each of us in accordance with his nature and constitution, we shall no longer attain our end.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 6.15"
@@ -938,11 +698,6 @@ const stoicQuotes = [
     "quote": "It is therefore shameful that man should begin and end where irrational creatures do. He ought rather to begin there, but to end where nature itself has fixed our end: and that is in the contemplation and understanding and a way of life in harmony with nature.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 6.20"
-  },
-  {
-    "quote": "Have you not received faculties which give you the power to endure everything that happens?\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 6.28"
   },
   {
     "quote": "Bring on me now, O Zeus, whatever difficulty you will, for I have the means and the resources granted to me by yourself to bring honour to myself through whatever may come to pass.",
@@ -958,16 +713,6 @@ const stoicQuotes = [
     "quote": "Yet I undertake to show you that you have the equipment and resources for greatness of soul and a courageous spirit: you show me what occasion you have for complaint and reproach!",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 6.43"
-  },
-  {
-    "quote": "For what we seek in every matter is how the virtuous man may find the path he should follow and the way he should behave with regard to it.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 7.2"
-  },
-  {
-    "quote": "For what is required in reasoning? To establish what is true, to reject what is false, and to suspend judgement in doubtful cases.\u201d posted",
-    "author": "Epictetus",
-    "source": "The Discourses, Book 1, Chapter 7.5"
   },
   {
     "quote": "Therefore, in reasoning too, mere speech is not enough, but it is necessary that we should become able to test and distinguish between the true and the false and the doubtful? It is necessary.",
@@ -1230,11 +975,6 @@ const stoicQuotes = [
     "source": "The Discourses, Book 1, Chapter 15.5"
   },
   {
-    "quote": "No great thing comes into being all of a sudden.",
-    "author": "Epictetus. The Discourses. Book 1",
-    "source": "Chapter 15.7"
-  },
-  {
     "quote": "Since they were not born for themselves, but for service, it would not have been beneficial to create them with these additional needs.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 16.2"
@@ -1443,11 +1183,6 @@ const stoicQuotes = [
     "quote": "Therefore the first and greatest task of a philosopher is to put impressions to the test and distinguish between them, and not admit any that has not been tested.\u201d Post; How Can Reason Contemplate Itself",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 20.7"
-  },
-  {
-    "quote": "Our end is to follow the gods and the essence of good consists in the proper use of impressions.",
-    "author": "Zeno",
-    "source": "according to Epictetus, The Discourses, Book 1, Chapter 20.15"
   },
   {
     "quote": "And so if Epicurus should come and say that the good must reside in the flesh, here too it becomes lengthy.\u201d Post; How Can Reason Contemplate Itself",
@@ -1823,5 +1558,25 @@ const stoicQuotes = [
     "quote": "These things we ought to remember, and when we are called to meet such difficulty, we should know that the time has come to show whether we have been well educated.",
     "author": "Epictetus",
     "source": "The Discourses, Book 1, Chapter 29.3"
+  },
+  {
+    "quote": "When you appear before some man of authority, remember that there is another who looks down from above on what passes here, and that it is him whom you must please rather than this man.",
+    "author": "Epictetus",
+    "source": "The Discourses, Book 1, Chapter 30.1"
+  },
+  {
+    "quote": "In your school, what did you call exile, and prison, and chains, and death, and dishonour?\n I called them indifferent things.\n What, then, do you call them now? Have they changed in any way?\n No.\n Have you changed, then?\n No.\n Tell me, then what things are indifferent?\n Things outside the sphere of choice.\n Tell me also what follows.\n Things outside the sphere of choice are nothing to me.\n A right choice and a right use of impressions.\n What was the end?\n To Follow you.",
+    "author": "Epictetus",
+    "source": "The Discourses, Book 1, Chapter 30.2-4"
+  },
+  {
+    "quote": "Well, go in confidently, remembering all this: and you will see how it is for a young man who has studied what he ought to appear amongst men who have not.",
+    "author": "Epictetus",
+    "source": "The Discourses, Book 1, Chapter 30.5"
+  },
+  {
+    "quote": "I for my part, by the god, imagine you will have some such thoughts as there: \u2018So many, such great preparations, why do we make them for nothing? Was this what power amounted to?",
+    "author": "Epictetus",
+    "source": "The Discourses, Book 1, Chapter 30.6"
   }
 ];
